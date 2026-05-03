@@ -2,8 +2,8 @@
 /target/
 **/*.rs.bk
 
-# cargo-chrono local data
-.cargo-chrono/
+# cargo-chronoscope local data
+.cargo-chronoscope/
 
 # IDE
 .idea/
